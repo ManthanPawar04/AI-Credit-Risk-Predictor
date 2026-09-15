@@ -204,6 +204,7 @@ AI-Credit-Risk-Predictor/
 ### Clone the repository
 
 https://github.com/ManthanPawar04/AI-Credit-Risk-Predictor.git
+
 cd AI-Credit-Risk-Predictor
 
 ### Create virtual environment
